@@ -33,6 +33,7 @@ I am a Product Leader with 11+ years of experience across **Fintech, SaaS, and E
 ### 📫 Connect with Me
 - **LinkedIn:** [siddharthpd](https://in.linkedin.com/in/siddharthpd)
 - **Portfolio:** [AI Digital Twin](https://siddharth-ai-chatbot.vercel.app/)
+- **Google Skills:** [Google Skills Public profile link](https://www.skills.google/public_profiles/f97dd490-33b1-4f29-bcca-2e7816650065)
 - **Email:** siddharth.nsit07@gmail.com 
 
 ---
