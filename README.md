@@ -18,6 +18,7 @@ I am a Product Leader with 11+ years of experience across **Fintech, SaaS, and E
 - **[StoryBook AI](https://github.com/siddth09/storybookai-backend)**: A multimodal web app using Gemini, Imagen, and TTS to generate narrated children's stories.
 - **[Care2TestAI](https://github.com/siddth09/care2testai)**: AI-powered test case generator specifically for healthcare software requirements.
 - **[Dreamy Tales AI](https://github.com/siddth09/dreamytales-ai)**: A GenAI application featuring Voice AI interfaces and OCR capabilities.
+- **[Bhav Yojak AI](https://github.com/siddth09/bhav-yojak)**: An AI-based translation and Text-to-Speech narration application that translates local Indian dialects to English/Hindi.
 - **API Utilities**: Custom SDKs and HashiCorp Vault integrations for secure REST API interactions.
 
 ---
